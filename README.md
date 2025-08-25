@@ -1,4 +1,5 @@
-Commit Creativo
+Commit Creativo:
+
 -Se añadió una sección explicando las razones por las cuales se eligió el artículo, destacando su relevancia en la formación digital y la protección de la niñez.
 - Se redactó un resumen del contenido principal del texto, resaltando:
 - La vulnerabilidad de los niños en la sociedad ciberfísica.
